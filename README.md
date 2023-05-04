@@ -1,1 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/EWDG00Cq)
+
+The polarity_reviews.csv dataset is provided as a ZIP file due to its large size, which makes direct uploading infeasible. To work with the dataset, please extract the contents of the ZIP file before using it for further analysis.
+
+Additionally, we have created a separate Exploratory Data Analysis (EDA) file, where we performed initial data exploration and preprocessing. The cleaned and processed dataset obtained from the EDA is used as the input for the modeling tasks described in this document. Please refer to the EDA file for a detailed understanding of the data preprocessing steps and the insights gained from the analysis.
